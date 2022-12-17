@@ -1,4 +1,4 @@
-package constructor;
+package constructor.pizza;
 
 public class pizza {
     char size;

@@ -1,4 +1,4 @@
-package constructor;
+package constructor.pizza;
 
 public class main {
     public static void main(String[] args) {

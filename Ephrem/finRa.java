@@ -20,7 +20,7 @@ public class finRa {
                 div1.add(""+i);
             }
         }
-        //System.out.println(div1);
+        System.out.println(div1);
         return div1;
     }
 }
